@@ -1,108 +1,53 @@
-[{
-	"name": "Deadpool",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/deadpool.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/deadpool.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/deadpool.jpg"
-	},
-	"timestamp": "February 12, 2016"
-},
-{
-	"name": "Batman vs Superman",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/bvs.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/bvs.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/bvs.jpg"
-	},
-	"timestamp": "March 25, 2016"
-},
-{
-	"name": "Captain America: Civil War",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/cacw.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/cacw.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/cacw.jpg"
-	},
-	"timestamp": "May 6, 2016"
-},
-{
-	"name": "Jason Bourne",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/bourne.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/bourne.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/bourne.jpg"
-	},
-	"timestamp": "July 29, 2016"
-},
-{
-	"name": "Suicide Squad",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/squad.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/squad.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/squad.jpg"
-	},
-	"timestamp": "August 5, 2016"
-},
-{
-	"name": "Doctor Strange",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/doctor.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/doctor.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/doctor.jpg"
-	},
-	"timestamp": "November 4, 2016"
-},
-{
-	"name": "Finding Dory",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/dory.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/dory.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/dory.jpg"
-	},
-	"timestamp": "June 17, 2016 "
-},
-{
-	"name": "The Hunger Games: Mockingjay",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/hunger.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/hunger.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/hunger.jpg"
-	},
-	"timestamp": "November 20, 2016 "
-},
-{
-	"name": "The Finest Hours",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/hours.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/hours.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/hours.jpg"
-	},
-	"timestamp": "January 29, 2016 "
-},
-{
-	"name": "Ip Man 3",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/ipman3.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/ipman3.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/ipman3.jpg"
-	},
-	"timestamp": "December 24, 2015"
-},
-{
-	"name": "The Jungle Book",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/book.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/book.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/book.jpg"
-	},
-	"timestamp": "April 15, 2016"
-},
-{
-	"name": "X-Men: Apocalypse",
-	"url": {
-		"small": "https://api.androidhive.info/images/glide/small/xmen.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/xmen.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/xmen.jpg"
-	},
-	"timestamp": "May 27, 2016"
-}]
+[
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/0.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/1.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/2.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/3.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/4.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/5.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/6.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/7.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/8.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/9.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/10.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/11.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/12.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/13.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/14.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/15.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/16.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/17.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/18.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/19.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/20.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/21.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/22.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/23.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/24.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/25.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/26.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/27.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/28.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/29.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/30.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/31.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/32.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/33.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/34.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/35.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/36.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/37.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/38.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/39.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/40.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/41.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/42.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/43.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/44.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/45.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/46.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/47.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/48.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/49.JPEG"},
+	{"url":"https://cdn.jsdelivr.net/gh/LuuTinhIT/mvvdsnvdsjnsdvddafeeew/50.JPEG"}
+]
